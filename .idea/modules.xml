@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/ba/unsa/etf/rs/rs.iml" filepath="$PROJECT_DIR$/src/ba/unsa/etf/rs/rs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/ba/unsa/etf/rs/rs1.iml" filepath="$PROJECT_DIR$/test/ba/unsa/etf/rs/rs1.iml" />
+    </modules>
+  </component>
+</project>
